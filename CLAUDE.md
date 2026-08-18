@@ -19,6 +19,10 @@ This project follows Spec Driven Design via the `/spec` and `/spec-impl` skills 
 
 No test runner is configured yet.
 
+## Skills
+
+Usa siempre /frontend-design para diseñar la interfaz de usuario
+
 ## Architecture
 
 - App Router under `app/` (`app/layout.tsx`, `app/page.tsx`). Path alias `@/*` maps to the repo root (see `tsconfig.json`).
